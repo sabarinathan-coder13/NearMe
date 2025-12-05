@@ -1,5 +1,5 @@
 # Ex03 Places Around Me
-## Date: 29.11.2025
+## Date: 05.12.2025
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -56,22 +56,32 @@ map.html
 
 bigtemple.html
 
-html>
+<html>
     <head>
         <title>Thanjavur Big Temple</title>
     </head>
-    <body bgcolor="Blue">
-        The Brihadeeswarar Temple, or Thanjavur Big Temple, is an 11th-century Shaivite marvel built by Chola <br>
-        emperor Raja Raja Chola I, renowned for its towering 216-foot vimana, massive granite construction, <br>
+    <body bgcolor="yellow">
+        <h1 align="center">
+            <font color="red"><b>Thanjavur City</b></font>
+        </h1>
+        <h3 align="center">
+        <font color="blue"><b>Thanjavur Big Temple</b></font>
+        </h3>
+        <hr size="3" color="red">
+        <p align="justify">
+            <font face="Georgia" size="5">
+                The Brihadeeswarar Temple, or Thanjavur Big Temple, is an 11th-century Shaivite marvel built by Chola 
+        emperor Raja Raja Chola I, renowned for its towering 216-foot vimana, massive granite construction,
         intricate sculptures, and cultural and religious significance.<br>
         <br>
-        The Brihadeeswarar Temple is part of the UNESCO World Heritage group “Great Living Chola Temples”, <br>
-        along with Gangaikonda Cholapuram and Airavatesvara temples . Its architectural innovations, grandeur,<br>
-        and cultural value have influenced South Indian temple design for centuries, marking it as a symbol<br>
-        of Tamil heritage and the engineering prowess of the Chola dynasty. <br>
+        The Brihadeeswarar Temple is part of the UNESCO World Heritage group “Great Living Chola Temples”,
+        along with Gangaikonda Cholapuram and Airavatesvara temples . Its architectural innovations, grandeur,
+        and cultural value have influenced South Indian temple design for centuries, marking it as a symbol
+        of Tamil heritage and the engineering prowess of the Chola dynasty. 
         <br>
-        Visiting the temple is not just a spiritual experience but also a profound engagement with the artistic,<br>
+        Visiting the temple is not just a spiritual experience but also a profound engagement with the artistic,
         historical, and cultural zenith of medieval South India.
+         </p>
     </body>
 </html>
 
@@ -79,19 +89,27 @@ manimandabam.html
 
 <html>
     <head>
-        <title>Raja Raja Cholan Manimandapam</title>
-
+        <title>Rajarajan Manimandapam</title>
     </head>
-    <body bgcolor="HotBlue">
-        Rajarajan Manimandapam serves as an educational, cultural, and recreational site in Thanjavur,<br>
-        celebrating the legacy of Raja Raja Chola I through its architecture, museum collections, and <br>
-        landscaped surroundings. It is a must-visit destination for anyone interested in Tamil history <br>
+    <body bgcolor="pink">
+        <h1 align="center">
+            <font color="red"><b>Thanjavur City</b></font>
+        </h1>
+        <h3 align="center">
+        <font color="blue"><b>Rajarajan Manimandapam</b></font>
+        </h3>
+        <hr size="3" color="red">
+        <p align="justify">
+            <font face="Georgia" size="5">
+                Rajarajan Manimandapam serves as an educational, cultural, and recreational site in Thanjavur,
+        celebrating the legacy of Raja Raja Chola I through its architecture, museum collections, and 
+        landscaped surroundings. It is a must-visit destination for anyone interested in Tamil history 
         and Chola heritage.<br>
         <br>
-        Rajarajan Manimandapam is located in the Southern Part of Thanjavur. It was built in 1991 during<br>
-        the 8th World Tamil Conference. It is a beautiful structure and is built in the style of the <br>
-        buildings constructed during the Chola period.<br>
-        <br>
+        Rajarajan Manimandapam is located in the Southern Part of Thanjavur. It was built in 1991 during
+        the 8th World Tamil Conference. It is a beautiful structure and is built in the style of the 
+        buildings constructed during the Chola period.
+         </p>
     </body>
 </html>
 
@@ -99,46 +117,58 @@ marathaPalace.html
 
 <html>
     <head>
-        <title>Maratha Palace</title>
+        <title>Thanjavur Maratha Palace</title>
     </head>
-    <body bgcolor="fuchsia">
-        The Thanjavur Maratha Palace, also known as the Nayak Palace, is a historic monument in Thanjavur,<br>
-        Tamil Nadu, India. Originally constructed by Nayak rulers in the 16th century, it was later expanded <br>
-        by Maratha rulers in the 17th century. The palace served as the official residence of the Bhonsle<br>
-        Maratha dynasty from 1674 to 1855.<br>
+    <body bgcolor="hotpink">
+        <h1 align="center">
+            <font color="red"><b>Thanjavur City</b></font>
+        </h1>
+        <h3 align="center">
+        <font color="blue"><b>Thanjavur Maratha Palace</b></font>
+        </h3>
+        <hr size="3" color="red">
+        <p align="justify">
+            <font face="Georgia" size="5">
+                The Thanjavur Maratha Palace, also known as the Nayak Palace, is a historic monument in Thanjavur,
+        Tamil Nadu, India. Originally constructed by Nayak rulers in the 16th century, it was later expanded 
+        by Maratha rulers in the 17th century. The palace served as the official residence of the Bhonsle
+        Maratha dynasty from 1674 to 1855.
         <br>
 
-        Construction began under Nayak king Sevappa Nayak and was completed by his successors. The<br>
-        Maratha rulers, originally from Maharashtra, later took control and made significant architectural<br>
-        additions. The palace complex encompasses multiple buildings, courtyards, and gardens.<br>
-        <br>
-
-        Its architecture blends Dravidian and Maratha styles, featuring intricate carvings, ornate pillars,<br>
-        and grand arches. A museum within the palace displays artifacts including royal regalia, weaponry,<br>
-        paintings, and sculptures. Recognized as a protected monument by the Archaeological Survey of India,<br>
-         the Thanjavur Maratha Palace represents the region’s rich cultural and architectural heritage.<br>
-
+        Construction began under Nayak king Sevappa Nayak and was completed by his successors. The
+        Maratha rulers, originally from Maharashtra, later took control and made significant architectural
+        additions. The palace complex encompasses multiple buildings, courtyards, and gardens.
+        
+         </p>
     </body>
-
 </html>
 
 NHRC.html
 
 <html>
     <head>
-        <title> National Hospital Research Center</title>
+        <title>National Hospital Research Centre</title>
     </head>
-    <body bgcolor="teal">
-            National Hospital Research Centre, also referred to as National Pharma Hospital and <br>
-            Research Institute, is a multi-specialty hospital in Thanjavur, providing comprehensive<br>
-            medical services with a high standard of care.<br>
+    <body bgcolor="skyblue">
+        <h1 align="center">
+            <font color="red"><b>Thanjavur City</b></font>
+        </h1>
+        <h3 align="center">
+        <font color="blue"><b>National Hospital Research Centre</b></font>
+        </h3>
+        <hr size="3" color="red">
+        <p align="justify">
+            <font face="Georgia" size="5">
+                National Hospital Research Centre, also referred to as National Pharma Hospital and 
+            Research Institute, is a multi-specialty hospital in Thanjavur, providing comprehensive
+            medical services with a high standard of care.
             <br>
-            The hospital has been serving the Thanjavur region since 2010, inaugurated officially in<br> 
-            January 2011. It was founded by Rtn. F. Hajee L. Kamal Batcha, leveraging experience from<br>
-            pharmaceutical ventures to establish a state-of-the-art healthcare facility. The hospital <br>
-            functions on a large, green campus and provides tertiary care with infrastructure <br>
-            comparable to corporate hospitals.<br>
-            <br> 
+            The hospital has been serving the Thanjavur region since 2010, inaugurated officially in
+            January 2011. It was founded by Rtn. F. Hajee L. Kamal Batcha, leveraging experience from
+            pharmaceutical ventures to establish a state-of-the-art healthcare facility. The hospital 
+            functions on a large, green campus and provides tertiary care with infrastructure 
+            comparable to corporate hospitals.
+         </p>
     </body>
 </html>
 
@@ -148,16 +178,27 @@ AnnaNagar.html
     <head>
         <title>Anna Nagar</title>
     </head>
-    <body bgcolor="Lime">
-        Anna Nagar is situated within Thanjavur district and can also refer to a small village/hamlet <br>
-        in Tiruvidaimarudur Block under Thirumanalakudi Panchayath, approximately 51 km east of Thanjavur<br>
-        city and 282 km from Chennai. The village is about 8 km from Tiruvidaimarudur town. It shares<br>
-        proximity with other localities such as Kondangudiillam, Karna Kollai Agraharam, Melacavery,<br>
-        Arul Nagar, and Kamaraj Nagar.<br>
+    <body bgcolor="aqua">
+        <h1 align="center">
+            <font color="red"><b>Thanjavur City</b></font>
+        </h1>
+        <h3 align="center">
+        <font color="blue"><b>Anna Nagar</b></font>
+        </h3>
+        <hr size="3" color="red">
+        <p align="justify">
+            <font face="Georgia" size="5">
+                Anna Nagar is situated within Thanjavur district and can also refer to a small village/hamlet 
+        in Tiruvidaimarudur Block under Thirumanalakudi Panchayath, approximately 51 km east of Thanjavur
+        city and 282 km from Chennai. The village is about 8 km from Tiruvidaimarudur town. It shares
+        proximity with other localities such as Kondangudiillam, Karna Kollai Agraharam, Melacavery,
+        Arul Nagar, and Kamaraj Nagar.
         <br>
-        Anna Nagar is ideal for individuals or families looking for a residential area with access to <br>
-        reputable schools, healthcare facilities, and local markets, combined with available real <br>
-        estate options ranging from small plots to larger independent houses and villas in Thanjavur.<br>
+        Anna Nagar is ideal for individuals or families looking for a residential area with access to
+        reputable schools, healthcare facilities, and local markets, combined with available real
+        estate options ranging from small plots to larger independent houses and villas in Thanjavur.
+    
+            </p>
     </body>
 </html>
 
@@ -165,17 +206,17 @@ AnnaNagar.html
 
 ## OUTPUT
 
-![alt text](<Screenshot (37).png>)
+![alt text](<Screenshot (46).png>)
 
-![alt text](<Screenshot (38).png>)
+![alt text](<Screenshot (45).png>)
 
-![alt text](<Screenshot (39).png>)
+![alt text](<Screenshot (47).png>)
 
-![alt text](<Screenshot (40).png>)
+![alt text](<Screenshot (48).png>)
 
-![alt text](<Screenshot (41).png>)
+![alt text](<Screenshot (49).png>)
 
-![alt text](<Screenshot (42).png>)
+![alt text](<Screenshot (50).png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
